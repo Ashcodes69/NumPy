@@ -16,17 +16,17 @@ Phase 4 → Saving and Loading Data
 
 1. Clone the repo
 
-  git clone https://github.com/Ashcodes69/NumPy.git
+git clone https://github.com/Ashcodes69/NumPy.git
 
 
 2. Navigate to the repo
 
-  cd NumPy
+cd NumPy
 
 
 3. Open Jupyter Notebook
 
-  jupyter notebook
+jupyter notebook
 
 🎥 Tutorial Source
 
